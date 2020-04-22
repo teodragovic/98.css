@@ -32,7 +32,8 @@
     "postcss-calc": "^7.0.2",
     "postcss-css-variables": "^0.14.0",
     "postcss-inline": "^1.2.0",
-    "postcss-inline-svg": "^4.1.0"
+    "postcss-inline-svg": "^4.1.0",
+    "postcss-url": "^8.0.0"
   },
   "dependencies": {}
 }
